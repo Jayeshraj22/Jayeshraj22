@@ -1,6 +1,5 @@
-# 👋 Hello Fellow Human!  
+# 👋 Hello Fellow Human!  I'm Jayesh Raj Singhal
 Welcome to my repository of *totally normal human code* 🦾
-# 👋 I'm Jayesh Raj Singhal  
 
 💡 Third-year Electrical Engineering student at **IIT Delhi**  
 ⚡ Passionate about **Problem-Solving, Algorithms, and Circuits**  
