@@ -1,7 +1,7 @@
 # 👋 Hello Fellow Human!  I'm Jayesh Raj Singhal
 Welcome to my repository of *totally normal human code* 🦾
 
-💡 Third-year Electrical Engineering student at **IIT Delhi**  
+💡 Fourth-year Electrical Engineering student at **IIT Delhi**  
 ⚡ Passionate about **Problem-Solving, Algorithms, and Circuits**  
 🌱 Currently exploring **Data Structures & Open Source**  
 🤝 Open to collaborations in **Software Development, Research Projects & Web Development**  
